@@ -23,6 +23,14 @@ Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos
 - Entorno: Linux, Windows.
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+- Herramientas usadas en empresas:
+  !(https://img.shields.io/badge/DBeaver-339933?style=flat&logo=dbeaver&logoColor=white)
+  !(https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
 
 ---
 
