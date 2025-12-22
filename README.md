@@ -50,7 +50,7 @@ Participación en retos de programación para mejorar lógica y constancia.
 
 ## 🧑‍🎓 Estudios
 
-- Programador Backend - 42MADRID. [🟩🟩⬜⬜⬜ 25%]   -----  [42madrid](https://github.com/Pabloms63/42madrid)
+- Programador Backend - 42MADRID. [🟩🟩⬜⬜⬜ 25%]  [42madrid](https://github.com/Pabloms63/42madrid)
 - Desarrollador de Aplicaciones Multiplataforma - DAM. [🟩🟩🟩🟩🟩 100%]
 - Desarrollador de Aplicaciones Web - DAW. [🟩🟩🟩🟩🟩 100%]
 - Curso Python - Tokyo School. [🟩🟩🟩🟩🟩 100%]
