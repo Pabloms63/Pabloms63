@@ -49,7 +49,8 @@ Participación en retos de programación para mejorar lógica y constancia.
 ---
 
 ## 🧑‍🎓 Estudios
-
+![Progress](https://img.shields.io/badge/Backend-25%25-yellow)
+![Progress](https://img.shields.io/badge/DAM-100%25-brightgreen)
 - Programador Backend - [42MADRID](https://github.com/Pabloms63/42madrid) [🟩🟩⬜⬜⬜ 25%]
 - Desarrollador de Aplicaciones Multiplataforma - DAM. [🟩🟩🟩🟩🟩 100%]
 - Desarrollador de Aplicaciones Web - DAW. [🟩🟩🟩🟩🟩 100%]
