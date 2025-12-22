@@ -43,7 +43,8 @@ Repositorio con distintos ejercicios y pruebas personales para practicar y exper
 🔹 [roadmap-retos-programacion](https://github.com/Pabloms63/roadmap-retos-programacion)  
 Participación en retos de programación para mejorar lógica y constancia.
 
-Lenguajes usados: (https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloms63&layout=compact&theme=radical)
+![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloms63&layout=compact&theme=radical)
+
 
 ---
 
