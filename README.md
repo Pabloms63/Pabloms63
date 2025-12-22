@@ -55,6 +55,8 @@ Participación en retos de programación para mejorar lógica y constancia.
 - Desarrollador de Aplicaciones Web - DAW. [🟩🟩🟩🟩🟩 100%]
 - Curso Python - Tokyo School. [🟩🟩🟩🟩🟩 100%]
 
+---
+
 ## 📫 Contacto
 
 Si quieres contactar conmigo o echar un vistazo a lo que hago:
