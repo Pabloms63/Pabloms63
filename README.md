@@ -50,10 +50,10 @@ Participación en retos de programación para mejorar lógica y constancia.
 
 ## 🧑‍🎓 Estudios
 
-- Programador Backend - [42MADRID](https://github.com/Pabloms63/42madrid) ![Progress](https://img.shields.io/badge/42madrid-25%25-yellow)
-- Desarrollador de Aplicaciones Multiplataforma - DAM. ![Progress](https://img.shields.io/badge/DAM-100%25-brightgreen)
-- Desarrollador de Aplicaciones Web - DAW. ![Progress](https://img.shields.io/badge/DAW-100%25-brightgreen)
-- Curso Python - Tokyo School. ![Progress](https://img.shields.io/badge/Pyhton-100%25-brightgreen)
+- Programador Backend - [42MADRID](https://github.com/Pabloms63/42madrid) ![Progress](https://img.shields.io/badge/%25-yellow)
+- Desarrollador de Aplicaciones Multiplataforma - DAM. ![Progress](https://img.shields.io/badge/100%25-brightgreen)
+- Desarrollador de Aplicaciones Web - DAW. ![Progress](https://img.shields.io/badge/100%25-brightgreen)
+- Curso Python - Tokyo School. ![Progress](https://img.shields.io/badge/100%25-brightgreen)
 
 ---
 
