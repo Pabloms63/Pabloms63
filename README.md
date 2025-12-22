@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo
 
-<!--
-**Pabloms63/Pabloms63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador con muchas ganas de aprender y mejorar cada día.
+Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos prácticos mientras aprendo.
 
-Here are some ideas to get you started:
+💻 Actualmente enfocado en programación y desarrollo de software.
+🌱 Aprendiendo nuevas tecnologías y buenas prácticas.  
+🚀 Abierto a seguir creciendo y colaborar en proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- Lenguajes: Java, Python, C.
+- Web: HTML, CSS.
+- Control de versiones: Git & GitHub.
+- Entorno: Linux, Windows.
+
+*(La lista crecerá con el tiempo 👀)*
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 **42madrid**  
+Proyectos realizados durante mi formación en 42 Madrid, centrados en lógica, algoritmos y buenas prácticas.
+
+🔹 **Proyectos**  
+Repositorio con distintos ejercicios y pruebas personales para practicar y experimentar.
+
+🔹 **roadmap-retos-programacion**  
+Participación en retos de programación para mejorar lógica y constancia.
+
+---
+
+## 📈 Qué puedes encontrar en mi GitHub
+
+- Proyectos de aprendizaje
+- Retos de programación
+- Código en mejora continua
+- Ganas de aprender y evolucionar como desarrollador
+
+---
+
+## 📫 Contacto
+
+Si quieres contactar conmigo o echar un vistazo a lo que hago:
+- LinkedIn: https://www.linkedin.com/in/pablo-marcos-s%C3%A1nchez/
+- GitHub: https://github.com/Pabloms63
+
+¡Gracias por pasarte por mi perfil! 😄
