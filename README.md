@@ -23,9 +23,6 @@ Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - Control de versiones:
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- Entorno:
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - Herramientas y lenguajes usados en empresas:
   ![DBeaver](https://img.shields.io/badge/DBeaver-339933?style=flat&logo=dbeaver&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
@@ -34,6 +31,9 @@ Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
   ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
+- Entorno:
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
