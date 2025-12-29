@@ -4,6 +4,7 @@ Soy desarrollador con muchas ganas de aprender y mejorar cada día.
 Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos prácticos mientras aprendo.
 
 💻 Actualmente enfocado en programación y desarrollo de software.
+
 🌱 Aprendiendo nuevas tecnologías y buenas prácticas.  
 🚀 Abierto a seguir creciendo y colaborar en proyectos.
 
