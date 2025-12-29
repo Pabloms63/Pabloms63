@@ -48,7 +48,7 @@ Participación en retos de programación para mejorar lógica y constancia.
 ---
 
 ## 📝 Lenguajes más usados
-![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloms63)
+![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloms63&layout=compact&theme=radical&exclude_repo=roadmap-retos-programacion)
 
 ---
 
