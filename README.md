@@ -3,7 +3,7 @@ Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 - Lenguajes: Java, Python, C.
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -26,7 +26,7 @@ Me interesa entender bien cómo funcionan las cosas por dentro y crear proyectos
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 🔹 [42madrid](https://github.com/Pabloms63/42madrid)  
 Proyectos realizados durante mi formación en 42 Madrid, centrados en lógica, algoritmos y buenas prácticas.
@@ -39,12 +39,12 @@ Participación en retos de programación para mejorar lógica y constancia.
 
 ---
 
-### 📝 Lenguajes más usados
+### Lenguajes más usados
 ![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloms63&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
-### 📈 Qué puedes encontrar en mi GitHub
+### Qué puedes encontrar en mi GitHub
 
 - Proyectos de aprendizaje
 - Retos de programación
@@ -53,7 +53,7 @@ Participación en retos de programación para mejorar lógica y constancia.
 
 ---
 
-### 🧑‍🎓 Estudios
+### Estudios
 
 - Programador Backend - [42MADRID](https://github.com/Pabloms63/42madrid) ![Progress](https://img.shields.io/badge/50%25-yellow)
 - Desarrollador de Aplicaciones Multiplataforma - DAM. ![Progress](https://img.shields.io/badge/100%25-brightgreen)
@@ -62,7 +62,7 @@ Participación en retos de programación para mejorar lógica y constancia.
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 Si quieres contactar conmigo o echar un vistazo a lo que hago:
 - LinkedIn: [Pablo Marcos Sánchez](https://www.linkedin.com/in/pablo-marcos-s%C3%A1nchez/)  
